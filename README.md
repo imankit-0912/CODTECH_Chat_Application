@@ -7,9 +7,15 @@
 
 chat-app/
 ├── index.js                  ✅ Backend Server
+
 ├── package.json              ✅ Dependencies
+
 ├── package-lock.json
+
 └── public/                   ✅ Frontend
+
     ├── index.html            ✅ Chat UI
+    
     ├── client.js             ✅ Socket.IO Frontend Code
+    
     └── style.css             ✅ Styles + Animation
